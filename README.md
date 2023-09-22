@@ -16,13 +16,13 @@ Users should be able to:
 #### Desktop mock
 
 <div align="center">
-  <img src="./public//desktop.jpg" width="504" height="300" />
+  <img src="/desktop.jpg" width="504" height="300" />
 </div>
 
 #### Mobile mock
 
 <div align="center">
-  <img src="./mobile.jpg width="200" height="393" />
+  <img src="/mobile.jpg width="200" height="393" />
 </div>
 
 ### Links
