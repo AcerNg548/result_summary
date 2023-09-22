@@ -16,17 +16,13 @@ Users should be able to:
 #### Desktop mock
 
 <div align="center">
-  <img src="./public//desktopPage1.jpg" width="504" height="300" />
-
-  <img src="./public//desktopPage2.jpg" width="504" height="300"/>
+  <img src="./public//desktop.jpg" width="504" height="300" />
 </div>
 
 #### Mobile mock
 
 <div align="center">
-  <img src="./public//mobilePage1.jpg" width="200" height="393" />
-  </br>
-  <img src="./public//desktopPage2.jpg" width="200" height="393"/>
+  <img src="./mobile.jpg width="200" height="393" />
 </div>
 
 ### Links
