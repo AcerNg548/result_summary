@@ -22,7 +22,7 @@ Users should be able to:
 #### Mobile mock
 
 <div align="center">
-  <img src="/mobile.jpg width="200" height="393" />
+  <img src="/mobile.jpg" width="200" height="393" />
 </div>
 
 ### Links
